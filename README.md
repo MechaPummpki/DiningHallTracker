@@ -12,7 +12,17 @@ UI Library: Reflex
 
 Data Storage: JSON files   
 
-API: http://api.hfs.purdue.edu/menus/v2/locations/<Dining Court>/<MM-DD-YYYY>/
+API: http://api.hfs.purdue.edu/menus/v2/locations/<Dining Court>/<MM-DD-YYYY>/   
+## Build Plan:  
+- Set up the Git Repo and environment
+- Use a program to scrape the Purdue dining hall API
+- Use a JSON parser to convert the data into Python format
+- Save the data into tables
+- Repeat 7 times for the whole week
+- Display the week's menu
+- Select between breakfast, lunch, and dinner
+- Format with a UI library
 ## Eisenhower Matrix:   
 
-[Untitled document (2).pdf](https://github.com/user-attachments/files/34255561/Untitled.document.2.pdf)
+[Eisenhower Matrix.pdf](https://github.com/user-attachments/files/34255943/Eisenhower.Matrix.pdf)
+
