@@ -15,3 +15,5 @@ Data Storage: JSON files
 API: http://api.hfs.purdue.edu/menus/v2/locations/<Dining Court>/<MM-DD-YYYY>/
 ## Eisenhower Matrix:   
 
+[Untitled document (2).pdf](https://github.com/user-attachments/files/34255561/Untitled.document.2.pdf)
+![Eisenhower Matrix](Untitled document (2).pdf)
